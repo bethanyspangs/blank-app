@@ -19,7 +19,7 @@ st.set_page_config(
 
 
 df = pd.read_csv(
-    "athlete_events.csv",
+    "https://drive.google.com/file/d/1WV4oEtqgKyx2Il4OLSZZPqXrlRzBB_FQ/view?usp=sharing",
     encoding="latin-1",
     thousands=","
 )
