@@ -19,7 +19,7 @@ st.set_page_config(
 
 
 df = pd.read_csv(
-    "https://drive.google.com/file/d/1WV4oEtqgKyx2Il4OLSZZPqXrlRzBB_FQ/view?usp=sharing",
+    "https://docs.google.com/spreadsheets/d/1E-64FAAWIx8apAY1mFqt5hwb_xRAOyG-PhUhDFL2BBY/edit?usp=sharing",
     encoding="latin-1",
     thousands=","
 )
